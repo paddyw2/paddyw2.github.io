@@ -1,6 +1,5 @@
 ---
 layout: default
-title: ""
 ---
 
 I am currently studying computer science at the University of Calgary. My interests include Information Security, Networks, and Software Engineering.
@@ -11,3 +10,4 @@ I also have a degree in Philosophy and English Literature from the University of
 
 To view some miscellaneous side projects and code snippets, check out my [GitHub](https://github.com/paddyw2){:target="_blank"} page.
 
+And if normal resumes bore you: [Java CLI Resume](https://github.com/paddyw2/resume){:target="_blank"}
