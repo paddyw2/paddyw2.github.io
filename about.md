@@ -4,7 +4,7 @@ layout: default
 
 I am currently studying computer science at the University of Calgary. My interests include Information Security, Networks, and Software Engineering.
 
-I have worked previously as a frontend developer and designer. I am proficient in Java, Python, C, C++, HTML, CSS, JavaScript, PHP to name but a few.
+I have worked previously as a frontend developer and designer. I am proficient in Java, Python, C#, and have knowledge of many others, including Ruby, C, C++.
 
 I also have a degree in Philosophy and English Literature from the University of Glasgow.
 
