@@ -2,11 +2,11 @@
 layout: default
 ---
 
-I am currently studying computer science at the University of Calgary. My interests include Information Security, Networks, and Software Engineering.
+I am currently studying computer science at the University of Calgary. My interests include Software Engineering, Big Data, and Networks.
 
-I have worked previously as a frontend developer and designer. I am proficient in Java, Python, C#, and have knowledge of many others, including Ruby, C, C++.
+I have worked previously as a frontend developer and designer, and as a software developer. I am proficient in Java, Python, C#, and have knowledge of many others, including C, C++, Ruby and JavaScript.
 
-I am a fan of *NIX based operating systems and am always trying to improve my command line skills and knowledge. Recently, I have been exploring the pen-testing distro Kali.
+I am a fan of *NIX based operating systems and am always trying to improve my command line skills and knowledge.
 
 I also have a degree in Philosophy and English Literature from the University of Glasgow.
 
