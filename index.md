@@ -3,8 +3,8 @@ layout: default
 title: "Patrick S. Withams"
 ---
 
-Hey, my name is Patrick Withams and I am a computer science student based in Calgary, Alberta.
+Computer science student based in Calgary, Alberta.
 
-My interests include Software Engineering, Big Data and anything that involves problem solving. I also have a strong interest in Linux, and I enjoy building web-based applications.
+Interests include scalable high-performance systems, big data, Linux, web-based applications and anything that involves problem solving.
 
-To find out more about me, take a look at my [about](/about) page.
+To find out more, a full resume can be found here: [Resume](/assets/resume.pdf){:target="_blank"}
