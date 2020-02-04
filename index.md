@@ -3,7 +3,7 @@ layout: default
 title: "Patrick S. Withams"
 ---
 
-Computer science student based in Calgary, Alberta.
+Software developer based in Calgary, Alberta.
 
 Interests include scalable high-performance systems, big data, Linux, web-based applications and anything that involves problem solving.
 

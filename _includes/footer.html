@@ -4,12 +4,14 @@
         <a href="https://github.com/paddyw2"><i class="fa fa-github"></i></a>
         <a href="https://ca.linkedin.com/pub/patrick-withams/84/b32/32a"><i class="fa fa-linkedin"></i></a>
             </div>
-    <p>&copy; Copyright Patrick S. Withams 2019 - All Rights Reserved</p>
+            <p>&copy; Copyright Patrick Withams <span id='currentYear'>2020</span> - All Rights Reserved</p>
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>
 $( document ).ready(function() {
+    var currentYear = new Date().getFullYear();
+    $('#currentYear').html(currentYear);
     $("body").addClass("fadeIn");
 });
 </script>    
